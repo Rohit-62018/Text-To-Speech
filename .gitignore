@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+clean.wav
+venv/
+.env/
+
+# Mac
+.DS_Store
+
+~/.local/share/tts/
+~/.cache/
+*.log
+*.wav
+requirements-lock.txt
